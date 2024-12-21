@@ -4,7 +4,6 @@ from colorzero import Color
 import random
 
 tree = RGBXmasTree()
-#i = 0
 #tree.color = Color('red')
 
 #for pixel in tree:
